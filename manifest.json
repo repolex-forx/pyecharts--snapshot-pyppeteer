@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "pyecharts",
+  "repo": "snapshot-pyppeteer",
+  "versions": [
+    {
+      "commit": "c8548d598a6288ac62bf48395eac95b1ca70d49e",
+      "parsed_at": "2026-10-28T13:24:37.394530+00:00",
+      "tag": "v0.0.2",
+      "filetree": "filetree/c8548d598a6288ac62bf48395eac95b1ca70d49e.nq.gz",
+      "blobs": [
+        "blob/90f6b5f0f53e73309d4041c1a6bef87504469660.nq.gz",
+        "blob/15762a07145bd47abb7950c05ded814b59f9528b.nq.gz",
+        "blob/0f20b95c086eb09c8e10dd0a5a1388858cef9057.nq.gz",
+        "blob/ce3ef3db2396ab8d9b9ce2c6949b090b9f74ac22.nq.gz",
+        "blob/19d2c12b0b10275d1a840a806159c701d7e8576e.nq.gz",
+        "blob/0ef128ad438a1fff5c5e6ebadc34b29874edf1f9.nq.gz",
+        "blob/c1a09918eae938f84c8e36ec71565f4a2b0678bc.nq.gz",
+        "blob/e67a9e01c56cff5c0d6ed7b5c729ff82c60042d5.nq.gz",
+        "blob/acffef63c216d01ccedcf99f163a07d9e6237dae.nq.gz",
+        "blob/f2b8f9b14027623c694c7eb36a00d47676c169a5.nq.gz",
+        "blob/29148b46e779daaeadf978ee96011d6e627b661a.nq.gz",
+        "blob/290e6269e3e809b37eae61b1ebbc34f9f03bb1e2.nq.gz",
+        "blob/b49747e31f180bfcfdf43f52e85abf2538ea3677.nq.gz",
+        "blob/3e5eab01a6997e32c181e8e5f774d28ac1b7c321.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
